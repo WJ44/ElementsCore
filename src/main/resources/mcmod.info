@@ -1,0 +1,21 @@
+[
+{
+  "modid": "ElementsCore",
+  "name": "ElementsCore",
+  "description": "Adds an element system to Minecraft",
+  "version": "$version",
+  "mcversion": "$mcversion",
+  "url": "http://www.wj44.nl/projects/elementalchemistry",
+  "updateUrl": "",
+  "authorList": [
+    "WJ44"
+  ],
+  "credits": "Pahimar, MineMaarten, all the people on IRC",
+  "logoFile": "assets/elementscore/textures/items/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependants": [ "EChem" ],
+  "useDependencyInformation": true
+}
+]
