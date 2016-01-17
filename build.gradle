@@ -25,10 +25,10 @@ group= "com.wj44.elementscore"
 archivesBaseName = "ElementsCore"
 
 minecraft {
-    version = "1.8.8-11.15.0.1647-1.8.8"
+    version = "1.8.9-11.15.0.1705"
     runDir = "run"
     
-    mappings = "snapshot_20151122"
+    mappings = "stable_20"
 	
 	replaceIn "reference/Reference.java"
     replace "@VERSION@", project.version
